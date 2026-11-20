@@ -16,6 +16,3 @@ console.log("File updated")
 
 console.log(data)
 
-
-
-
